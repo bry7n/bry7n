@@ -13,18 +13,18 @@ Estou cursando:
 <br>
 
 ### Minhas Redes Sociais
-<p>
+<br>
 
+<p>
 <a href="instagram.com/brya4nn"> 
  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/bryan-lima-735992250/">
-<img align="left" width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
-
 </p>
-
-
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bry7n)](https://github.com/bry7n/github-readme-stats)
 
