@@ -16,7 +16,7 @@ Estou cursando:
 <br>
 
 <p>
-<a href="instagram.com/brya4nn"> 
+<a href="https://www.instagram.com/brya4nn/"> 
  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/bryan-lima-735992250/">
