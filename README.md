@@ -1,6 +1,6 @@
 ### Olá ✏️
 
-Me chamo Bryan, tenho 19 anos e estou aprendendo a desenvolver em front end & back end
+Me chamo Bryan, tenho 20 anos e estou aprendendo a desenvolver em front end & back end
 <br>
 <br>
 Estou cursando:
