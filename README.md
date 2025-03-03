@@ -28,7 +28,7 @@ Currently, I'm studying:
 
 ## 🎮 JoKenPo Project  
 
-![Project Preview](https://raw.githubusercontent.com/bry7n/REPOSITORY_NAME/main/assets/preview.png)  
+![Project Preview](https://raw.githubusercontent.com/bry7n/Project-Jokenpo/main/assets/preview.png)
 
 > A simple Rock, Paper, Scissors game made with HTML, CSS, and JavaScript.  
 
