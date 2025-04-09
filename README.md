@@ -1,6 +1,6 @@
 # Hello! 👋  
 
-My name is **Bryan**, I'm 20 years old, and I'm learning **Front-end** and **Back-end** development.  
+My name is **Bryan**, I'm 21 years old, and I'm learning **Front-end** and **Back-end** development.  
 
 Currently, I'm studying:  
 
@@ -8,7 +8,9 @@ Currently, I'm studying:
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![.NET](	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white).
 
 ---
 
