@@ -43,6 +43,3 @@ Currently, I'm studying:
 1. Clone the repository  
 2. Open `index.html` in your browser  
 3. Have fun! 🎮
-
-![GitHub Profile 3D Contributions](https://github.com/bry7n/bry7n/blob/main/github-contributions-3d.svg)
-
