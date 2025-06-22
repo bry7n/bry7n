@@ -10,7 +10,7 @@ Currently, I'm studying and using the following technologies:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,prisma,sequelize,docker,vite,mongodb,postgres,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,prisma,sequelize,docker,vite,mongodb,postgres,cs,dotnet" />
   </a>
 </p>
 
