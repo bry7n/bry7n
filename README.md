@@ -27,3 +27,11 @@ Currently, I'm studying and using the following technologies:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bry7n&show_icons=true&theme=radical)](https://github.com/bry7n/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bry7n&layout=compact&theme=radical)](https://github.com/bry7n/github-readme-stats)
+
+---
+
+## 🧊 My 3D Contribution Graph
+
+<p align="center">
+  <img src="https://gitskyline.vercel.app/api?user=bry7n" alt="Bryan's 3D Contribution Graph" />
+</p>
