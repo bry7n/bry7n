@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Bryan**, I'm 21 years old, and I'm learning **FullStack* development.
+My name is **Bryan**, I'm 21 years old, and I'm learning **FullStack** development.
 
 ---
 
